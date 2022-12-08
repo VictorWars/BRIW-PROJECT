@@ -9,14 +9,3 @@ Este es el repositorio para la materia de "Búsqueda y recuperación de informac
  <a href="https://github.com/VictorWars">
       <p align="center" >[Victor Enrique Cauich Davalos]</p>
  </a>
- 
- 
- 
- 
- 
-| --- |
-| <img src = "https://avatars.githubusercontent.com/u/50329391?v=4" width = 100> |
-
-
-
-- [Victor Enrique Cauich Davalos](https://github.com/VictorWars)
