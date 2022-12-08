@@ -7,5 +7,5 @@
  <img href="https://github.com/VictorWars" width="300px" src="https://avatars.githubusercontent.com/u/50329391?v=4" align="center" alt="VictorWars" />
  <h2 align="center">Victor Enrique Cauich Davalos</h2>
  <a href="https://github.com/VictorWars">
-      <a align="center" >[Victor Enrique Cauich Davalos]</a>
+      <p align="center" >[Victor Enrique Cauich Davalos]</p>
  </a>
