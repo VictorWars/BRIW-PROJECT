@@ -4,5 +4,5 @@
 <p align="center">
   <a align="center">Integrantes:</a>
   <img href="https://github.com/VictorWars" width="300px" src="https://avatars.githubusercontent.com/u/50329391?v=4" align="center" alt="VictorWars" />
-  <a align="center" href="https://github.com/VictorWars">Victor Enrique Cauich Davalos</a>
+  <h2 align="center" href="https://github.com/VictorWars">Victor Enrique Cauich Davalos</h2>
 </p>
