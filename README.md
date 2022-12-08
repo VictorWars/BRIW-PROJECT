@@ -4,8 +4,8 @@ Este es el repositorio para la materia de "Búsqueda y recuperación de informac
 
 ## Integrantes:
 
-                          | --- |
-                          | <img src = "https://avatars.githubusercontent.com/u/50329391?v=4" width = 100> |
+| --- |
+| <img src = "https://avatars.githubusercontent.com/u/50329391?v=4" width = 100> |
 
 
 
